@@ -1,0 +1,59 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 455 >>
+stream
+BT /F1 12 Tf 48 740 Td 22 TL (ResearchBuddy Upload Test) Tj
+T* (Abstract) Tj
+T* (This original test document checks paper upload and page-linked evidence retrieval.) Tj
+T* (1 Methods) Tj
+T* (We evaluated a retrieval system using 120 questions across four academic subjects.) Tj
+T* (The experiment compared keyword retrieval against a manually curated reference set.) Tj
+T* (Two reviewers independently checked every retrieved passage for relevance.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 489 >>
+stream
+BT /F1 12 Tf 48 740 Td 22 TL (2 Results) Tj
+T* (The system retrieved relevant evidence for 108 of the 120 evaluation questions.) Tj
+T* (Reviewers agreed on the relevance of 95 percent of the retrieved passages.) Tj
+T* (3 Limitations) Tj
+T* (The study is limited by a small dataset and only English language documents.) Tj
+T* (Future work should evaluate scanned documents and multilingual research papers.) Tj
+T* (These numbers are synthetic test data, not actual research findings.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+8 0 obj
+<< /Title (ResearchBuddy Upload Test) /Author (ResearchBuddy QA - synthetic fixture) >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000753 00000 n 
+0000000879 00000 n 
+0000001419 00000 n 
+0000001489 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R /Info 8 0 R >>
+startxref
+1592
+%%EOF
